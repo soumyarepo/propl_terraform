@@ -1,0 +1,6 @@
+location            = "East US"
+resource_group_name = "propl-prod-rg"
+network_interface_id = "/subscriptions/your-subscription-id/resourceGroups/your-rg/providers/Microsoft.Network/networkInterfaces/your-nic"
+vm_size             = "Standard_DS2_v2"
+admin_username      = "prodnuser"
+admin_password      = "P@ssw0rd1234"
